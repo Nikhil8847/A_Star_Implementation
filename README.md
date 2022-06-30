@@ -9,3 +9,6 @@
   and ```h (Heuristic)``` value is [Manhattan Distance](https://www.sciencedirect.com/topics/mathematics/manhattan-distance#:~:text=The%20Manhattan%20distance%20is%20defined,which%20is%20its%20L1%2Dnorm.)
   between node ```n2``` and ```goal_position/finish_position```<br>
   i.e. ```f(n) = g(n) + h(n)```
+
+  Code Structure of Implementation:
+  ![cannot load](./resources/addtoopen.png "Code Structure")
